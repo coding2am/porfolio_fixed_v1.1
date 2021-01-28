@@ -1,0 +1,17 @@
+/* logo font */
+@font-face {
+    font-family: logo-Font;
+    src:url("fonts/ZillaSlabHighlight-Bold.ttf");
+}
+
+/* primary font */
+@font-face {
+    font-family: primary-font;
+    src:url("fonts/titillium.ttf");
+}
+
+/* secondary font */
+@font-face {
+    font-family: secondary-Font;
+    src:url("fonts/Ubuntu-Regular.ttf");
+}
